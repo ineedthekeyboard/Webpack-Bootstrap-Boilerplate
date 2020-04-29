@@ -8,4 +8,4 @@ It uses the main.js file to store all the global images+assets that need to be i
 
 ### Get started
 To get started `npm i` and then run `npm start`
-To build files for distribution run `npm build`. Files to server will then be in the "/dist" folder.
+To build files for distribution run `npm run build`. Files to server will then be in the "/dist" folder.
