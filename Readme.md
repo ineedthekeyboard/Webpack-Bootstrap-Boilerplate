@@ -1,4 +1,10 @@
-# Supertech Static Sites
-This project contains the static site for supertech.ai, and singularitysoftware.io. More details will follow later.
+# Webpack boilerplate project
 
-To get started `npm i` and then run `npm build`
+###Idea
+Basically this project contains a basic webpack setup to build an html template with its JS and SCSS dependencies
+into a servable format.
+It uses the main.js file to store all the global images+assets that need to be imported.
+
+### Get started
+To get started `npm i` and then run `npm start`
+To build files for distribution run `npm build`. Files to server will then be in the "/dist" folder.
