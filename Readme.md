@@ -1,8 +1,9 @@
 # Webpack boilerplate project
 
-###Idea
+### Idea
 Basically this project contains a basic webpack setup to build an html template with its JS and SCSS dependencies
 into a servable format.
+The HTML setup is based on html boilerplate project.
 It uses the main.js file to store all the global images+assets that need to be imported.
 
 ### Get started
